@@ -1,5 +1,5 @@
 {
-  "name": "@lcdp/offline-plugin",
+  "name": "vabburi/offline-plugin",
   "version": "6.0.0",
   "description": "offline-plugin for webpack",
   "main": "lib/index.js",
